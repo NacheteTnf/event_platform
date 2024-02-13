@@ -15,3 +15,11 @@
 -Para la Base de Datos se utilizara Moongose y MongoDB:
 
 - https://www.mongodb.com/es
+
+* De interes uploadthings para el formulario de subir imagenes
+
+- https://docs.uploadthing.com/
+
+* De interes Calendario picker
+
+- https://www.npmjs.com/package/react-datepicker
